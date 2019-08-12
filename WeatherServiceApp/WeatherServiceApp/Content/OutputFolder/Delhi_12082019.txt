@@ -1,0 +1,9 @@
+Weather Forecast for City :-Delhi
+Weather Forecast Date :- 12-08-2019
+City geo location, longitude :- '77.22'
+City geo location, latitude :- '28.67'
+Weather Forecast for the Day :- Haze
+Weather Forecast for the Day Description :- haze
+Wind Speed :- 2.6 meter/sec 
+Wind Direction :- 250 °
+Humidity :- 74 % 
